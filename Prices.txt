@@ -28,7 +28,7 @@ Kaufland,Marshmallow 120gr,3.49,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Snack pizza,5.00,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Prim speciala,7.49,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Prune Rotunde,12.49,Sun Feb 11 01:16:11 GMT+02:00 2023
-Kaufland,Colgate periute 2 in 1,Sun Feb 11 01:16:11 GMT+02:00 2023
+Kaufland,Colgate periute 2 in 1,11.99,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Pasta de dinti colgate,5.49,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Hochl Margel,5.69,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,KLC lapte,5.69,Sun Feb 11 01:16:11 GMT+02:00 2023
