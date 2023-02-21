@@ -51,7 +51,7 @@ Plai,Josi rulada cascaval,13.49,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Chio fried chicken,3.99,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Vincini napolitane,6.50,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Cocolino orange rush,19.99,Sun Feb 11 01:16:11 GMT+02:00 2023
-Plai,Zago snacks cu branza/pizza/ketchup,/bacon,1.10,Sun Feb 11 01:16:11 GMT+02:00 2023
+Plai,Zago snacks cu branza/pizza/ketchup/bacon,1.10,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,El capitan batiste nazale,4.29,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Ajax univeral 1L,8.19,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Boromir tortulet biscuiti,0.89,Sun Feb 11 01:16:11 GMT+02:00 2023
