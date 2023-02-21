@@ -3,3 +3,22 @@ Lidl,Pere,8.91,Sun Feb 12 01:21:16 GMT+02:00 2023
 Auchan,Banane,7.99,Sun Feb 12 01:21:50 GMT+02:00 2023
 Auchan,Dero,99.5,Sun Feb 12 01:47:35 GMT+02:00 2023
 Auchan,fr,4558.0,Mon Feb 13 18:32:52 GMT+02:00 2023
+
+Auchan,Auchan inghetata alune,13.50,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Croco sticks crema,2.35,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Banane,5.72,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Tarta mere,60.10,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Auchan turta dulce,6.40,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Iaurt crema 7+1,16.80,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Activia mic dejun capsuni,4.30,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Stingator auto,58.80,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Auchan RR Degivrant,14.90,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Fineti squeeze,13.00,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Set lavete microfibre,8.50,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Dorna apa plata 0.5L,2.65,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Lovita biscuit portocale,4.25,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Macarons,19.90,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Oreo bisuiti,5.85,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Felix Jr. 4x85gr, 9.20,Sun Feb 11 01:16:11 GMT+02:00 2023
+Auchan,Friskies Jr,1.95,Sun Feb 11 01:16:11 GMT+02:00 2023
+
