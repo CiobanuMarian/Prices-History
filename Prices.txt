@@ -32,7 +32,7 @@ Kaufland,Colgate periute 2 in 1,11.99,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Pasta de dinti colgate,5.49,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Hochl Margel,5.69,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,KLC lapte,5.69,Sun Feb 11 01:16:11 GMT+02:00 2023
-Kaufland,Hochland 5.59,Sun Feb 11 01:16:11 GMT+02:00 2023
+Kaufland,Hochland,5.59,Sun Feb 11 01:16:11 GMT+02:00 2023
 Kaufland,Franzela,6.29,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Sammix detergent lichid,17.98,Sun Feb 11 01:16:11 GMT+02:00 2023
 Plai,Franzela,3.89,Sun Feb 11 01:16:11 GMT+02:00 2023
